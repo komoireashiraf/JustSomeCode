@@ -1,1 +1,2 @@
-console.log("Hello world")
+const="Love"
+console.log("Love")
